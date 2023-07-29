@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e91dd00b-9e54-4be3-bec6-a2b568a7ddce": {
+      "ProjectGuid": "e91dd00b-9e54-4be3-bec6-a2b568a7ddce",
+      "DisplayName": "BankAccount",
+      "ColorIndex": 0
+    },
+    "d41322a2-7d71-479a-95ea-d3ab021ca73b": {
+      "ProjectGuid": "d41322a2-7d71-479a-95ea-d3ab021ca73b",
+      "DisplayName": "Models",
+      "ColorIndex": 1
+    },
+    "1fac0b6e-59aa-4a2b-8d38-5eaae581d0d7": {
+      "ProjectGuid": "1fac0b6e-59aa-4a2b-8d38-5eaae581d0d7",
+      "DisplayName": "Services",
+      "ColorIndex": 2
+    },
+    "104bd80f-9819-461d-a352-219dc84c015b": {
+      "ProjectGuid": "104bd80f-9819-461d-a352-219dc84c015b",
+      "DisplayName": "Data",
+      "ColorIndex": 3
+    },
+    "6d34bbed-1d44-4439-af6b-77817f7e75cb": {
+      "ProjectGuid": "6d34bbed-1d44-4439-af6b-77817f7e75cb",
+      "DisplayName": "Repository",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
